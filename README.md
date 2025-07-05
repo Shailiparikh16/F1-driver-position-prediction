@@ -1,6 +1,20 @@
-# F1-driver-position-prediction
+# 🏎️ F1 Grand Prix Prediction
 
-This project predicts the finishing position of an F1 driver in a race based on historical race and driver data. It includes various features such as driver status, race name, circuit name, and driver performance metrics.
+This project predicts the results of a Formula 1 Grand Prix using historical data, driver statistics, and qualifying performances. It includes various features such as driver status, race name, circuit name, and driver performance metrics.  
+Implemented as a Python Colab notebook, it showcases data preprocessing, feature engineering, machine learning model training, and prediction visualization.
+
+## 🚀 Features
+- Data loading and cleaning
+- Feature engineering for key race predictors
+- Machine learning model training (e.g., RandomForest)
+- Predictions on upcoming GP results
+- Visualizations for insights
+
+## 📓 How to Run
+1. Clone the repository or download the notebook.
+2. Open the `f1_prediction.ipynb` notebook in Google Colab.
+3. Install any missing dependencies (like `pandas`, `scikit-learn`, `matplotlib`).
+4. Run the notebook cells sequentially.
 
 **Table of Contents:**
 Overview
