@@ -30,26 +30,40 @@ Various encodings were applied to categorical features, including frequency enco
 
 **Project Structure**
 
-├── Data Scraped
+└── Data Scraped
 
-├── Downloaded CSV File
+└── Downloaded CSV File
 
-├── Understand the Data
+└── Understand the Data
 
-├── Preprocessing:
-│   ├── Dropping columns
-│   ├── Combining columns
-│   ├── Filling null values using grouped mean/median and -1 for missing historical data
-├── Checking Covariance
-├── Performing EDA
-├── Pipeline Creation:
-│   ├── Decision Tree
-│   ├── Gradient Boost
-│   ├── Random Forest
-├── Hyperparameter Tuning by Grid Search
-├── Best Model Selection
-├── Prediction
-├── Evaluation
+└── Preprocessing:
+
+    └── Dropping columns
+
+    └── Combining columns
+
+    └── Filling null values using grouped mean/median and -1 for missing historical data
+
+└── Checking Covariance
+
+└── Performing EDA
+
+└── Pipeline Creation:
+
+    └── Decision Tree
+
+    └── Gradient Boost
+
+    └── Random Forest
+
+└── Hyperparameter Tuning by Grid Search
+
+└── Best Model Selection
+
+└── Prediction
+
+└── Evaluation
+
 └── User Interaction
 
 
