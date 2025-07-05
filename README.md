@@ -31,8 +31,11 @@ Various encodings were applied to categorical features, including frequency enco
 **Project Structure**
 
 ├── Data Scraped
+
 ├── Downloaded CSV File
+
 ├── Understand the Data
+
 ├── Preprocessing:
 │   ├── Dropping columns
 │   ├── Combining columns
